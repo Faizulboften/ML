@@ -92,7 +92,7 @@ if __name__=="__main__":
      elif f == "05" or f == "5":
           load()
           print('\n')
-          os.system('python moonton.py')
+          os.system('python cecker.py')
           kembali()
      elif f == "00" or f == "0":
           exit()
